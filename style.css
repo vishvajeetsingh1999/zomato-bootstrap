@@ -1,0 +1,238 @@
+@media only screen and (max-width: 400px) {
+    
+    .team{
+        width: 30px !important;
+        margin-left: 50px !important;
+
+    }
+}
+
+
+    .team image{
+        width: 40px !important;
+
+    }
+    @media only screen and (max-width: 400px) {
+    .mars{
+        font-size: 20px !important;
+        margin-left: 10px !important;
+        text-align: center;
+    }
+
+    }
+
+@media only screen and (max-width: 400px){
+    .apj{
+        margin-top: 20px;
+    }
+}
+
+
+  
+
+
+
+
+
+
+
+
+
+
+.day{
+    object-fit: cover;
+}
+.the{
+    position: absolute;
+    top: 20px;
+    left: 16px;
+    margin-left: 270px;
+    
+}
+
+/* .the a{
+    color:#ffffff;
+    text-decoration: none;
+font-family:  Arial, Helvetica, sans-serif;
+font-size: 16px;
+}
+
+.you{
+    flex: 0.5;
+    position: absolute;
+    top: 20px;
+    right: 1px;
+    margin-right: 300px;
+    
+
+}
+
+.you a{
+    color: #ffffff;
+    margin: 10px;
+    text-decoration: none;
+    font-family:  Arial, Helvetica, sans-serif;
+font-size: 16px;
+
+} */
+
+
+.the{
+    color: white;
+    text-decoration: none;
+}
+
+.arpit{
+    position: absolute;
+    top: 20px;
+    
+    right: 1px;
+    margin-right: 400px;
+    color: white;
+    text-decoration: none;
+
+}
+
+.sameer{
+    position: absolute;
+    top: 20px;
+    
+    right: 1px;
+    margin-right: 300px;
+    color: white;
+    text-decoration: none;
+
+}
+
+
+.team{
+    position: absolute;
+    top: 15%;
+    /* transform: translate(50%, -50%); */
+    margin-left: 40%;
+   
+}
+
+.mars{
+
+position: absolute;
+    top: 30%;
+    margin-left: 25%;
+    font-size: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #ffffff;
+    margin-bottom: 50px;
+    
+}
+
+.card-img-top{
+    height: 200px;
+    
+}
+
+.card-img-top:hover{
+    width:240px;
+    height: 200px;
+
+}
+
+.card-text{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    color: #363636;
+
+}
+
+
+.eyes{
+    font-family: Arial, Helvetica, sans-serif;
+    color: #1c1c1c;
+    font-size: 36px;
+    
+}
+
+
+.men{
+    font-family: Arial, Helvetica, sans-serif;
+    color: #363636;
+    font-size: 18px;
+}
+
+.sunil{
+    text-align: center;
+    margin-top: 70px;
+    font-size: 36px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #363636;
+}
+
+.jadu{
+    display: grid;
+    grid-template-columns: auto auto auto ;
+}
+
+.kalu 
+{
+    padding: 30px;
+    text-align: center;
+ 
+    
+}
+#sprite{
+    width: 290px !important;
+    border: solid black 1px;
+    padding: 10px !important;
+    /* margin: 45px !important;  */
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    color: #1c1c1c;
+    
+    
+    
+}
+
+
+
+
+ #will{
+    width: 255px;
+    height: 430px;
+  align-self: flex-end !important;
+   align-content: center !important;
+
+} 
+
+
+#vikash{
+    color: #1c1c1c;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 45px;
+    /* padding: 20px; */
+    /* margin-right: 20%; */
+     margin-top: 40px;
+    text-align: left;
+
+
+#bag{
+    color: #363636;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    
+}
+
+
+.form-check-label{
+    color: #1c1c1c !important;
+    font-family: Arial, Helvetica, sans-serif;
+    
+
+}
+
+
+
+.grid-container{
+display: grid !important;
+grid-template-columns: auto auto auto auto auto !important;
+
+}
